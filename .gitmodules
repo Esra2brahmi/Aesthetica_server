@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Esra2brahmi/backend-aesthetic-clinic.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Esra2brahmi/angular-Aesthetic-Clinic-project.git
